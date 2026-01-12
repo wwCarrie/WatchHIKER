@@ -1,17 +1,23 @@
 # 基于UNIHIKER的MXSW智能手环
-为大三课设
+大三智能系统课设
 
 ## 研究目的
 本研究致力于开发一种基于嵌入式技术的智能手环系统，重点突破传统可穿戴设备在用户体验与功能集成方面的局限性。针对当前消费级手环在交互体验和场景适应性上的不足。研究通过优化传感器布局与低功耗设计，实现多场景数据的精准采集。
 系统采用行空板M10作为主控平台，结合三轴加速度计、环境光传感器等模块，构建轻量化但功能完备的硬件架构。在软件层面，开发模块化Python应用框架，支持基础运动监测、安全提醒、延时摄影等核心功能提升交互友好性。本研究旨在建立一个开放、可扩展的智能手环开发平台，为后续功能迭代和场景化应用提供硬件基础与软件生态支持。
 
 ## 系统总体设计方案
+
 ### 系统流程图
+
 <img width="407" height="239" alt="image" src="https://github.com/user-attachments/assets/66687703-33f4-4df0-92f8-7820fd131113" />
+
 ### 系统分层说明图
+
 <img width="416" height="274" alt="image" src="https://github.com/user-attachments/assets/a1f9fc80-1666-47f4-95b4-d6b9ff178310" />
+
 ### 硬件系统架构图
 <img width="416" height="179" alt="image" src="https://github.com/user-attachments/assets/605e33d0-e3d9-4539-8e79-9ca3f77d3cde" />
+
 ### 智能手环组成结构
 <img width="400" height="241" alt="image" src="https://github.com/user-attachments/assets/cbd74fed-759a-4740-ab24-79afc36ce869" />
 
@@ -24,6 +30,7 @@
 ### 噪声监测
 #### 低噪声监测
 <img width="142" height="202" alt="image" src="https://github.com/user-attachments/assets/043f832e-c60c-49e5-a4b7-d936c6436287" />
+
 #### 高噪声监测
 <img width="142" height="197" alt="image" src="https://github.com/user-attachments/assets/476cdb4f-2f6d-427d-b47d-0f117e4ed042" />
 
